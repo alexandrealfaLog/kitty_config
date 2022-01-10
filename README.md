@@ -1,3 +1,3 @@
-* Kitty TERMINAL -> https://sw.kovidgoyal.net/kitty/overview/#design-philosophy
+**Kitty Terminal** -> https://sw.kovidgoyal.net/kitty/overview/#design-philosophy
 
-- MY KITTY_TERMINAL CONFIG FILE
+- *my  Kitty_terminal config file In this repository*
